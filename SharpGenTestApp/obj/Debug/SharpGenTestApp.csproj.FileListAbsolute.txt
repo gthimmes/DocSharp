@@ -1,0 +1,14 @@
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGenTestApp\bin\Debug\SharpGenTestApp.exe.config
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGenTestApp\obj\Debug\SharpGenTestApp.csprojResolveAssemblyReference.cache
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGenTestApp\bin\Debug\SharpGenTestApp.exe
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGenTestApp\bin\Debug\SharpGenTestApp.pdb
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGenTestApp\bin\Debug\SharpGen.dll
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGenTestApp\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGenTestApp\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGenTestApp\bin\Debug\System.IO.Packaging.dll
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGenTestApp\bin\Debug\SharpGen.pdb
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGenTestApp\obj\Debug\SharpGenTestApp.exe
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGenTestApp\obj\Debug\SharpGenTestApp.pdb
+C:\Source\SharpDocGen\SharpGenTestApp\bin\Debug\SharpGenTestApp.exe.config
+C:\Source\SharpDocGen\SharpGenTestApp\obj\Debug\SharpGenTestApp.exe
+C:\Source\SharpDocGen\SharpGenTestApp\obj\Debug\SharpGenTestApp.pdb

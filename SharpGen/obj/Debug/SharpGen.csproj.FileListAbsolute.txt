@@ -1,0 +1,8 @@
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGen\obj\Debug\SharpGen.csprojResolveAssemblyReference.cache
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGen\bin\Debug\SharpGen.dll
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGen\bin\Debug\SharpGen.pdb
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGen\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGen\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGen\bin\Debug\System.IO.Packaging.dll
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGen\obj\Debug\SharpGen.dll
+C:\Users\glenn.thimmes\documents\visual studio 2015\Projects\DocGenTest\SharpGen\obj\Debug\SharpGen.pdb
